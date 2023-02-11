@@ -1,19 +1,4 @@
 {
-    "compilerOptions": {
-        "baseUrl": ".",
-        "outDir": "./dist",
-        "paths": {
-            "#types/*": [ "./@types/*" ]
-        },
-        "rootDirs": [
-            ".",
-            "./src"
-        ],
-        "typeRoots": [
-            "./src/@types",
-            "node_modules/@types"
-        ]
-    },
     "exclude": [
         "node_modules/",
         "dist/"
