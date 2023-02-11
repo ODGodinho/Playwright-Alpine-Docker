@@ -46,6 +46,9 @@
 
 ## ⏩ Get Started
 
+Read this documentation for private packages npm
+<https://docs.npmjs.com/docker-and-private-modules>
+
 ### 🍀 Create Dockerfile
 
 ```dockerfile
