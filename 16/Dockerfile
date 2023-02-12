@@ -1,4 +1,4 @@
-FROM node:lts-alpine
+FROM node:16-alpine
 
 # Support private packages NPM
 ARG NPM_TOKEN
