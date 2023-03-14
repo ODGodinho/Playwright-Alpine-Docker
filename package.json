@@ -2,7 +2,11 @@
     "name": "@odg/playwright-docker-alpine",
     "version": "0.0.0",
     "description": "Docker for Playwright with alpine",
-    "homepage": "",
+    "homepage": "https://github.com/ODGodinho/Playwright-Alpine-Docker",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ODGodinho/Playwright-Alpine-Docker"
+    },
     "scripts": {
         "lint": "eslint --ext .js,.jsx,.ts,.tsx,.json,.jsonc,.json5,.yml,.yaml,.xml,.txt,.svg,.properties,.gradle,.java,.cpp,.c,.cs,.html,.css,.groovy,.gitignore,.npmignore,.toml,.env,.example,.sample,.ini,.php,.bat,.powershell,.ps1,.sh,.bash,.eslintrc",
         "lint:fix": "eslint --ext .js,.jsx,.ts,.tsx,.json,.jsonc,.json5,.yml,.yaml,.xml,.txt,.svg,.properties,.gradle,.java,.cpp,.c,.cs,.html,.css,.groovy,.gitignore,.npmignore,.toml,.env,.example,.sample,.ini,.php,.bat,.powershell,.ps1,.sh,.bash,.eslintrc --fix"

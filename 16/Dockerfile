@@ -33,7 +33,7 @@ ENV PLAYWRIGHT_SKIP_BROWSER_DOWNLOAD=1
 ENV PLAYWRIGHT_CHROMIUM_EXECUTABLE_PATH=/usr/bin/chromium-browser
 
 RUN npx playwright install chromium
-RUN cd /root/.cache/ms-playwright/chromium-1045 \
+RUN cd /root/.cache/ms-playwright/chromium-* \
   && rm -rf ./chrome-linux/ \
   && mkdir chrome-linux \
   && cd chrome-linux \

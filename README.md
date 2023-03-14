@@ -41,7 +41,7 @@
 
 ## 📗 Images
 
-- [latest](https://github.com/ODGodinho/Playwright-Alpine-Docker/tree/main/lts/Dockerfile)
+- [18 - latest](https://github.com/ODGodinho/Playwright-Alpine-Docker/tree/main/lts/Dockerfile)
 - [16](https://github.com/ODGodinho/Playwright-Alpine-Docker/tree/main/16/Dockerfile)
 
 ## ⏩ Get Started
