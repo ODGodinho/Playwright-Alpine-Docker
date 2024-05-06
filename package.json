@@ -18,7 +18,6 @@
     "license": "MIT",
     "devDependencies": {
         "@odg/eslint-config": "*",
-        "eslint": "*",
         "typescript": "*"
     },
     "dependencies": {}

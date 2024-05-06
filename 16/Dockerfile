@@ -15,8 +15,6 @@ RUN apk upgrade --no-cache --available \
   --repository=https://dl-cdn.alpinelinux.org/alpine/edge/testing \
   font-wqy-zenhei
 
-COPY ../local.conf /etc/fonts/local.conf
-
 # Add Chrome as a user
 RUN mkdir -p /usr/src/app \
   && adduser -D chrome \
