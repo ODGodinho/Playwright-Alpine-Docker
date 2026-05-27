@@ -39,10 +39,11 @@
 - 🎇 Reduced size image
 - 📦 Support private and public packages npm
 
-## 📗 Images
-
-- [18 - latest](https://github.com/ODGodinho/Playwright-Alpine-Docker/tree/main/lts/Dockerfile)
+- [24 - latest](https://github.com/ODGodinho/Playwright-Alpine-Docker/tree/main/lts/Dockerfile)
+- [20](https://github.com/ODGodinho/Playwright-Alpine-Docker/tree/main/20/Dockerfile)
+- [18](https://github.com/ODGodinho/Playwright-Alpine-Docker/tree/main/18/Dockerfile)
 - [16](https://github.com/ODGodinho/Playwright-Alpine-Docker/tree/main/16/Dockerfile)
+- [bun](https://github.com/ODGodinho/Playwright-Alpine-Docker/tree/main/bun/Dockerfile)
 
 ## ⏩ Get Started
 
